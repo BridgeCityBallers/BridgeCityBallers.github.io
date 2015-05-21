@@ -16,7 +16,7 @@ ul{
 }
 header{
 	text-align: center;
-	left: 200;
+	margin-left: 200;
 	position: fixed;
 }
 team{
