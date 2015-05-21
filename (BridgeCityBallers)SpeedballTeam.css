@@ -14,3 +14,9 @@ body{
 ul{
 	text-decoration: #none;
 }
+header{
+	position: #fixed;
+}
+team{
+	right: #200;
+}
