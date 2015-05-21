@@ -14,10 +14,10 @@ body{
 ul{
 	text-decoration: #none;
 }
-header{
+#header{
 	margin-left: 200;
 	position: fixed;
 }
-team{
+#team{
 	margin-right: 200;
 }
