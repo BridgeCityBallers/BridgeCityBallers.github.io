@@ -15,10 +15,9 @@ ul{
 	text-decoration: #none;
 }
 header{
-	text-align: center;
 	margin-left: 200;
 	position: fixed;
 }
 team{
-	right: 200;
+	margin-right: 200;
 }
