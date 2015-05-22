@@ -16,9 +16,24 @@ ul{
 	text-decoration: #none;
 }
 #header{
-	margin-left: 200PX;
+	margin-left: 500PX;
 	position: fixed;
 }
 #team{
 	margin-right: 200PX;
+		position: fixed;
+}
+#clothing{
+	position: fixed;
+	
+}
+
+#DNC{
+	position: fixed;
+	margin-bottom: 200px;
+	margin-left: 450px;
+}
+#gametype{
+	position: fixed;
+	margin-left: 600px;
 }
