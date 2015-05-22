@@ -1,6 +1,5 @@
 
 h1 {
-	margin: 0px 500px;
 	font-family: 'Great Vibes', cursive;
 	font-size: 70px;
 	color:#FDFDFD;
@@ -12,31 +11,32 @@ h2{
 }
 body{
     background-color: #0B59A4;
-	margin: 600px 300px; 
 	}
 
 ul{
 	text-decoration: #none;
 }
 #header{
-	margin-left: 500PX;
+	margin: 300px 300px; 
 	position: fixed;
 }
 #team{
-	margin-right: 200PX;
+	margin: 375px 750px; 
 		position: fixed;
 }
 #clothing{
 	position: fixed;
-	
+	margin: 375px 600px; 
 }
 
 #DNC{
 	position: fixed;
-	margin-bottom: 200px;
-	margin-left: 450px;
+	margin: 375px 450px; 
 }
 #gametype{
 	position: fixed;
-	margin-left: 600px;
+	margin: 375px 300px; 
+}
+#secondpart{
+	margin: 200px 600px; 
 }
