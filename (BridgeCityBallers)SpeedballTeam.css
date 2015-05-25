@@ -17,6 +17,7 @@ h2{
 	color:#FDFDFD;
 }
 body{
+	list-style-type: none;
 	text-align: center;
 	margin-bottom: 750;
     background-color: #0B59A4;
@@ -29,24 +30,26 @@ ul{
 }
 #header{
 	margin: 3px 30px; 
-
+	list-style-type: none;
 }
-#Links{
+#Links  ul{
 	display; inline;
+	list-style-type: none;
 }
 #team{
 	margin: 37px 75px; 
-		
+	list-style-type: none;	
 }
 #clothing{
-	
+	list-style-type: none;
 	margin: 37px 60px; 
 }
 
 #DNC{
-	
+	list-style-type: none;
 	margin: 35px 40px; 
 }
 #gametype{
-	margin: 3px 3px; 
+	margin: 3px 3px;
+		list-style-type: none;
 }
