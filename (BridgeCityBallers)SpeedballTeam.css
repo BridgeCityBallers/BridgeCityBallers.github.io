@@ -1,42 +1,49 @@
 
 h1 {
+	text-align: center
+	
 	font-family: 'Great Vibes', cursive;
 	font-size: 70px;
 	color:#FDFDFD;
 }
 
-
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
 h2{ 
+	text-align: center
 	color:#FDFDFD;
 }
 body{
+	text-align: center;
+	margin-bottom: 750;
     background-color: #0B59A4;
 	}
 
 ul{
-	text-decoration: #none;
+	text-align: center
+	
+	text-decoration: none;
 }
 #header{
-	margin: 300px 300px; 
-	position: fixed;
+	margin: 3px 30px; 
+
 }
 #team{
-	margin: 375px 750px; 
-		position: fixed;
+	margin: 37px 75px; 
+		
 }
 #clothing{
-	position: fixed;
-	margin: 375px 600px; 
+	
+	margin: 37px 60px; 
 }
 
 #DNC{
-	position: fixed;
-	margin: 375px 450px; 
+	
+	margin: 35px 40px; 
 }
 #gametype{
-	position: fixed;
-	margin: 375px 300px; 
-}
-#secondpart{
-	margin: 200px 600px; 
+	margin: 3px 3px; 
 }
