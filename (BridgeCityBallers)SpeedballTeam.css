@@ -24,21 +24,23 @@ body{
 }
 
 ul li a{
-	text-align: center	
+	text-align: center;	
 }
 
-ul li a{
-	list: block;
+
 }
 #header{
 	margin: 3px 30px; 
 	list-style-type: none;
 }
 #Links li {
+	display: block;
 	float: left;
+	padding: 15px 15px;
 }
-#Links2{
+#Links2 ul li a{
 	float: left;
+	position: absolute;
 }
 
 
