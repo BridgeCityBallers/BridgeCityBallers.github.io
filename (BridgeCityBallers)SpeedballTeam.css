@@ -23,18 +23,25 @@ body{
     background-color: #0B59A4;
 }
 
-ul{
-	text-align: center
-	
-	text-decoration: none;
+ul li a{
+	text-align: center	
+}
+
+ul li a{
+	list: block;
 }
 #header{
 	margin: 3px 30px; 
 	list-style-type: none;
 }
-#Links  ul{
-	display; inline;
+#Links li {
+	float: left;
 }
+#Links2{
+	float: left;
+}
+
+
 #team{
 	margin: 37px 75px; 
 	list-style-type: none;	
