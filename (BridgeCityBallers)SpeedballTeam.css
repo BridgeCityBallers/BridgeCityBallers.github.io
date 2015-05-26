@@ -21,7 +21,7 @@ body{
 	text-align: center;
 	margin-bottom: 750;
     background-color: #0B59A4;
-	}
+}
 
 ul{
 	text-align: center
@@ -34,7 +34,6 @@ ul{
 }
 #Links  ul{
 	display; inline;
-	list-style-type: none;
 }
 #team{
 	margin: 37px 75px; 
@@ -43,6 +42,10 @@ ul{
 #clothing{
 	list-style-type: none;
 	margin: 37px 60px; 
+}
+
+#theteam{
+	list-style-type: none;
 }
 
 #DNC{
