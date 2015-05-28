@@ -39,8 +39,8 @@ ul li a{
 	padding: 15px 15px;
 }
 #Links2 ul li a{
-	float: left;
 	position: absolute;
+	margin: left;
 }
 
 
